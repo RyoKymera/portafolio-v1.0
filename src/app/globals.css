@@ -5,6 +5,10 @@
   --foreground: #171717;
 
   --primary: #222831;
+  --secondary: #31363F;
+  --tertiary: #76ABAE;
+  --quaternary: #EEEEEE;
+
 }
 
 @theme inline {
@@ -16,7 +20,9 @@
   --font-serif: var(--font-merriweather);
 
   --color-primary: var(--primary);
-
+  --color-secondary: var(--secondary);
+  --color-tertiary: var(--tertiary);
+  --color-quaternary: var(--quaternary);
 }
 
 @media (prefers-color-scheme: dark) {
