@@ -30,7 +30,7 @@ export default function Home() {
           <SectionCenter backgroundImage="/img/desk.jpg">
             <h2 className="text-4xl md:text-3xl sm:text-2xl md:px-32 font-sans font-bold mb-4 text-center">About Me</h2>
             <div className="w-1/2 h-2 bg-quaternary mx-auto my-4 rounded-full" />
-            <p className="text-xl md:text-lg sm:text-base md:px-20 sm:px-10 font-sans font-light tracking-wide text-justify">
+            <p className="text-xl md:text-lg sm:text-base md:px-20 sm:px-10 font-sans font-light tracking-wide text-justify sm:px-15">
               <br/>
               I&#39;m a Frontend Developer with a background in Electromechanical Engineering and a constant passion for technology, visual design, and digital animation. I specialize in building modern, functional, and user-centered interfaces.
               <br/><br/>
@@ -56,11 +56,11 @@ export default function Home() {
           <Section
             image="/img/project-1.png"
             imageAlt="Panal – NoCountry"
-            imagePosition="left"
+            imagePosition="right"
             background="bg-quaternary"
             >
             <div className="w-full min-h-64 flex flex-col justify-around pb-[5%] mt-6">
-              <h2 className="font-sans text-primary text-5xl md:text-4xl sm:text-3xl font-bold pb-4 sm:px-10">Panal – NoCountry</h2>
+              <h2 className="font-sans text-primary text-5xl md:text-3xl sm:text-xl font-bold pb-4 sm:px-10">Panal – NoCountry</h2>
               <h2 className="font-sans text-primary text-2xl md:text-xl sm:text-lg font-normal pb-4 sm:px-10">(Collaborative Trello-style Project)</h2>
               <p className="font-sans text-primary text-lg tracking-wide text-justify sm:px-10">A collaborative task management platform inspired by Trello, developed during a simulated work environment with a multidisciplinary team of 5 people (UX/UI, Frontend, and Backend). I contributed as a Frontend developer, focusing on layout and user interaction. Currently in beta phase, with plans to be continued in an upcoming NoCountry cohort.</p>
             </div>
@@ -79,7 +79,7 @@ export default function Home() {
             background="bg-secondary"
             >
             <div className="w-full min-h-64 flex flex-col justify-around pb-[5%] mt-6">
-              <h2 className="font-sans text-quaternary text-5xl md:text-4xl sm:text-3xl font-bold pb-4 sm:px-10">Org – Alura Latam</h2>
+              <h2 className="font-sans text-quaternary text-5xl md:text-3xl sm:text-xl font-bold pb-4 sm:px-10">Org – Alura Latam</h2>
               <h2 className="font-sans text-quaternary text-2xl md:text-xl sm:text-lg font-normal pb-4 sm:px-10">(Team Organizer App)</h2>
               <p className="font-sans text-quaternary text-lg tracking-wide text-justify sm:px-10">A web application built with React that allows users to create, edit, and delete work teams and their members. It provides a clear and intuitive way to visualize team structures. I implemented reusable components, props handling, hooks, and data persistence using JSON Server.</p>
             </div>
@@ -94,11 +94,11 @@ export default function Home() {
           <Section
             image="/img/project-3.png"
             imageAlt="Text Encryptor"
-            imagePosition="left"
+            imagePosition="right"
             background="bg-quaternary"
             >
             <div className="w-full min-h-64 flex flex-col justify-around pb-[5%] mt-6">
-              <h2 className="font-sans text-primary text-5xl md:text-4xl sm:text-3xl font-bold pb-4 sm:px-10">Text Encryptor</h2>
+              <h2 className="font-sans text-primary text-5xl md:text-3xl sm:text-xl font-bold pb-4 sm:px-10">Text Encryptor</h2>
               <p className="font-sans text-primary text-lg tracking-wide text-justify sm:px-10">A simple app designed to encrypt and decrypt text messages, created as a practice exercise in logic and basic security. Great for improving string manipulation, input validation, and responsive design skills. It also marked my first steps toward writing clean and user-friendly code.</p>
             </div>
             <div className="flex justify-center font-sans text-lg font-bold" >
