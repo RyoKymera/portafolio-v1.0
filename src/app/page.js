@@ -20,7 +20,7 @@ export default function Home() {
           background="bg-quaternary"
           >
           <div className="w-full min-h-64 sm:min-h-40 flex flex-col justify-around pt-[5%] sm:pt-0 sm:px-10 sm:pb-0 pb-[5%] sm:mt-0 mt-6">
-            <h3 className="font-sans text-primary text-2xl md:text-xl sm:lg tracking-wide">Hi, I'm</h3>
+            <h3 className="font-sans text-primary text-2xl md:text-xl sm:lg tracking-wide">Hi, I`&#39;`m</h3>
             <h2 className="font-sans text-primary text-5xl md:text-5xl sm:text-3xl font-bold sm:pb-0 pb-4">Diego O. Mateus</h2>
             <p className="font-sans text-primary text-lg md:text-base sm:sm tracking-wide text-justify">A frontend developer evolving into fullstack, passionate about crafting digital experiences through clean code, creative design, and animation.</p>
           </div>
@@ -32,15 +32,15 @@ export default function Home() {
             <div className="w-1/2 h-2 bg-quaternary mx-auto my-4 rounded-full" />
             <p className="text-xl md:text-lg sm:text-base md:px-20 sm:px-10 font-sans font-light tracking-wide text-justify">
               <br/>
-              I'm a Frontend Developer with a background in Electromechanical Engineering and a constant passion for technology, visual design, and digital animation. I specialize in building modern, functional, and user-centered interfaces.
+              I`&#39;`m a Frontend Developer with a background in Electromechanical Engineering and a constant passion for technology, visual design, and digital animation. I specialize in building modern, functional, and user-centered interfaces.
               <br/><br/>
-              My technical foundation was solidified through the Oracle Next Education (ONE) program by Alura Latam, where I deepened my knowledge in web development, clean coding practices, and logical problem-solving. I'm currently transitioning into Fullstack development, expanding my backend skills to deliver more complete and integrated solutions.
+              My technical foundation was solidified through the Oracle Next Education (ONE) program by Alura Latam, where I deepened my knowledge in web development, clean coding practices, and logical problem-solving. I`&#39;`m currently transitioning into Fullstack development, expanding my backend skills to deliver more complete and integrated solutions.
               <br/><br/>
               My tech stack includes React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, and Framer Motion. I also bring creative value through digital design and animation, working with tools like Photoshop, Illustrator, After Effects, Blender, and more.
               <br/>
-              I've collaborated in agile, multidisciplinary environments such as NoCountry, where I developed real-world projects in team simulations, and I currently lead my own creative agency, Llamative, focused on web development and branding.
+              I`&#39;`ve collaborated in agile, multidisciplinary environments such as NoCountry, where I developed real-world projects in team simulations, and I currently lead my own creative agency, Llamative, focused on web development and branding.
               <br/><br/>
-              I'm known for being proactive, responsible, and highly self-motivated, with a strong sense of adaptability and critical thinking. I thrive in team settings, value clear communication, and am constantly seeking to grow. I enjoy solving problems creatively while maintaining an empathetic and collaborative mindset.
+              I`&#39;`m known for being proactive, responsible, and highly self-motivated, with a strong sense of adaptability and critical thinking. I thrive in team settings, value clear communication, and am constantly seeking to grow. I enjoy solving problems creatively while maintaining an empathetic and collaborative mindset.
               <br/><br/>
               My goal is to contribute to innovative projects by developing impactful digital experiences that blend technology, design, and human value.
             </p>
